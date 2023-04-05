@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1680701604 source:c:\users\hyper\documents\unitbv\pclp\tema1\pereche.cpp
+	"Pereche.h"
+
+1680703174 source:c:\users\hyper\documents\unitbv\pclp\tema1\rational.cpp
+	"Pereche.h"
+	"Rational.h"
+	<iostream>
+
+1680701569 c:\users\hyper\documents\unitbv\pclp\tema1\pereche.h
+
+1680702241 source:c:\users\hyper\documents\unitbv\pclp\tema1\main.cpp
+	<iostream>
+	"Pereche.h"
+	"Rational.h"
+
+1680699625 c:\users\hyper\documents\unitbv\pclp\tema1\rational.h
+	"Pereche.h"
+
